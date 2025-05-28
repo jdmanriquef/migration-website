@@ -1,0 +1,10 @@
+body{
+    font-family: sans-serif;
+    background-color: green;
+    color:red;
+}
+img{
+    width: 500px;
+    background-color: white;
+    padding: 20px;
+}

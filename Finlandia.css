@@ -1,0 +1,10 @@
+body{
+    font-family: sans-serif;
+    background-color: white;
+    color: blue;
+}
+img{
+    width: 500px;
+    background-color: blue;
+    padding: 20px;
+}
