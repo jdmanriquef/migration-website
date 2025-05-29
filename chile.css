@@ -1,8 +1,10 @@
 body{
     font-family: sans-serif;
     background-color: red;
-    color: blue;
+    color: white;
 }
 img{
     width: 500px;
+    background-color: blue;
+    padding: 20px;
 }
