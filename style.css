@@ -1,8 +1,9 @@
 .image1{
     width: 300px;
     display: block;
+    padding: 20px;
 }
 .image2{
-    width: 260px;
+    width: 300px;
     padding: 20px;
 }
